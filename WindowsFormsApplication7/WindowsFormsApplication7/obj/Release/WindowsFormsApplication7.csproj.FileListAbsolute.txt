@@ -1,0 +1,9 @@
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form1.resources
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
+c:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csprojResolveAssemblyReference.cache

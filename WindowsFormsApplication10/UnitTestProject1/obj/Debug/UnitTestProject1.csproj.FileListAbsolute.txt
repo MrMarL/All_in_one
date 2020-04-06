@@ -1,0 +1,9 @@
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

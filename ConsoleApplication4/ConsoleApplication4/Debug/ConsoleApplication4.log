@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(882): fatal error C1083: Не удается открыть файл включение: qos.h: No such file or directory
